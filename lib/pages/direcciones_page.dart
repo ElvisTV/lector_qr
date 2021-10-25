@@ -11,15 +11,12 @@ class DireccionesPage extends StatelessWidget {
     
   }
 }
+// primera linea agregada
 
-//Esto es un segundo commit
+// segunda linea agregada
 
+// tercera linea agregada
 
-//Esto es un texto de prueba de Elvis
-
-// ESto es una segunda prueba de Texto
-
-//Esot es un siguiente coomit ya listo para subir a github
 
 
 
